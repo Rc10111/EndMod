@@ -1,0 +1,17 @@
+{
+  "structures": [
+    {
+      "structure": "end-mod:house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 564604121,
+
+    "spacing": 20,
+
+    "separation": 6,
+
+    "type": "minecraft:random_spread"
+  }
+}

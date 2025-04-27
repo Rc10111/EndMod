@@ -1,0 +1,22 @@
+{
+  "item.end-mod.void_beacon": "Void Beacon",
+  "item.end-mod.ender_pearl_powder": "Ender Pearl Powder",
+  "item.end-mod.ender_ingot": "Ender Ingot",
+  "item.end-mod.chorus_fruit_jerky": "Chorus Fruit Jerky",
+  "item.end-mod.ender_cloak": "Ender Cloak",
+  "item.end-mod.ender_leggings": "Ender Leggings",
+  "item.end-mod.shulker_boots": "Shulker Boots",
+  "item.end-mod.void_edge": "Void Edge",
+  "item.end-mod.gale_bow": "Gale Bow",
+  "item.minecraft.potion.effect.teleportation_potion": "Teleportation Potion",
+  "item.minecraft.splash_potion.effect.teleportation_potion": "Splash Teleportation Potion",
+  "item.minecraft.lingering_potion.effect.teleportation_potion": "Lingering Teleportation Potion",
+
+  "itemGroup.end_mod": "EndMod",
+
+  "block.end-mod.void_beacon_ore": "Void Beacon Ore",
+
+  "effect.end-mod.ender_harmony": "Ender Harmony",
+  "effect.end-mod.shulker_immunity": "Shulker Immunity",
+  "effect.end-mod.teleportation": "Teleportation After 2 Seconds"
+}

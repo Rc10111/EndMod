@@ -1,0 +1,22 @@
+{
+  "item.end-mod.void_beacon": "虚空水晶",
+  "item.end-mod.ender_pearl_powder": "末影珍珠粉末",
+  "item.end-mod.ender_ingot": "末影锭",
+  "item.end-mod.chorus_fruit_jerky": "紫颂果干",
+  "item.end-mod.ender_cloak": "末影斗篷\n特殊:\n消除末影人敌意\n潜行隐身",
+  "item.end-mod.ender_leggings": "末影护腿\n特殊:\n受击20%免伤并瞬移",
+  "item.end-mod.shulker_boots": "末影靴\n特殊:\n消除漂浮效果",
+  "item.end-mod.void_edge": "虚空之刃\n特殊:\n攻击50%概率使目标瞬移",
+  "item.end-mod.gale_bow": "末影弓\n特殊:\n击中弹起目标并浮空3秒",
+  "item.minecraft.potion.effect.teleportation_potion": "瞬移药水",
+  "item.minecraft.splash_potion.effect.teleportation_potion": "喷溅型瞬移药水",
+  "item.minecraft.lingering_potion.effect.teleportation_potion": "滞留型瞬移药水",
+
+  "itemGroup.end_mod": "末地模组",
+
+  "block.end-mod.void_beacon_ore": "虚空水晶矿",
+
+  "effect.end-mod.ender_harmony": "末影和谐",
+  "effect.end-mod.shulker_immunity": "漂浮免疫",
+  "effect.end-mod.teleportation": "瞬移"
+}

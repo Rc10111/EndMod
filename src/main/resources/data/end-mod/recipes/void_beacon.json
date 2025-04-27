@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "end-mod:void_beacon_ore"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "end-mod:void_beacon"
+  }
+}

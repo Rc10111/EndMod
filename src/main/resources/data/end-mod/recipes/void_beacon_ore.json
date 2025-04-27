@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "VV",
+    "VV"
+  ],
+  "key": {
+    "V": { "item": "end-mod:void_beacon" }
+  },
+  "result": {
+    "item": "end-mod:void_beacon_ore"
+  }
+}

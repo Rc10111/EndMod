@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "end-mod:void_beacon",
+          "max": 3
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "end-mod:blocks/void_beacon_ore"
+}
+

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "end-mod:void_beacon"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "end-mod:ender_ingot"
+  }
+}

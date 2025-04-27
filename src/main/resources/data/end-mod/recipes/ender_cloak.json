@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E E",
+    "EPE",
+    "BEB"
+  ],
+  "key": {
+    "P": { "item": "minecraft:ender_pearl" },
+    "E": { "item": "end-mod:ender_ingot" },
+    "B": { "item": "end-mod:void_beacon" }
+  },
+  "result": {
+    "item": "end-mod:ender_cloak"
+  }
+}

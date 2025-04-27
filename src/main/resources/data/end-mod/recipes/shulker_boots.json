@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "E E",
+    "S S"
+  ],
+  "key": {
+    "S": { "item": "minecraft:shulker_shell" },
+    "E": { "item": "end-mod:ender_ingot" }
+  },
+  "result": {
+    "item": "end-mod:shulker_boots"
+  }
+}
